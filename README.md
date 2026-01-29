@@ -1,9 +1,9 @@
 # Past-Nonsuicidal-self-injury-IAT
-This repository contains the code for an adapted version of the autobiographical IAT, using statements about Nonsuicidal self-injury. The procedure was validated and used to predict Nonsuicidal self-injury in Catheleyn, Van Dessel &amp; De Houwer (2022).
+This repository contains the code for an adapted version of the autobiographical IAT, using statements about Nonsuicidal self-injury. The procedure was validated and used to predict Nonsuicidal self-injury in Catheleyn, Van Dessel and De Houwer (2021).
 
 ## File description
 
-- pdf Manuscript where IAT is described and validated
+- pdf manuscript where IAT is described and validated
 - *PNSI-IAT_isolated_ENG* - json script to run isolated, english version of the PNSI-IAT as described in the manuscript. Download file and open and run on https://labjs.felixhenninger.com/
 - Folder *study_1_files* contains preregistration, materials and scripts for running study and analyses for Study 1 in the manuscript.
 - Folder *study_2_files* contains preregistration, materials and scripts for running study and analyses for Study 2 in the manuscript.
