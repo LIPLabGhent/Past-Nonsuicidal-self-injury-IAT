@@ -1,0 +1,2 @@
+Data from Time 1 and Time 2 were merged through participants' Prolific Identification codes. 
+The raw data file contains the merged data. Prolific identification codes were removed from the raw and processed data files. 
