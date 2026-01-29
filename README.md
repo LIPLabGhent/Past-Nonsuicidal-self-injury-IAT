@@ -46,6 +46,6 @@ Scores for the P-NSSI-IAT were calculated using the D4 scoring algorithm (Greenw
 - 24 practice trials targets with reversed key combination
 - 48 critical trials targets + attributes with reversed key combination (incongruent block)
 
-## Licence and Reference
+## License and Reference
 
-Researchers and others are free to use this software and task under a CC BY-NC-SA license. Please reference Cathelyn, F., Van Dessel, P., & De Houwer, J. (2021). Predicting nonsuicidal self‐injury using a variant of the Implicit Association Test. Suicide and Life‐Threatening Behavior, 51(6), 1259-1271. When you use this task.
+Researchers and others are free to use this software and task under a CC BY-NC-SA license. When you use this task, please reference Cathelyn, F., Van Dessel, P., & De Houwer, J. (2021). Predicting nonsuicidal self‐injury using a variant of the Implicit Association Test. Suicide and Life‐Threatening Behavior, 51(6), 1259-1271. 
